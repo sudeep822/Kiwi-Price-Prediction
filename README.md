@@ -2,7 +2,6 @@
 Predicting the price of kiwi fruit based on previous dataset.
 
  FACEBOOK PROPHET EXPECTED OUTPUT
- Expected Outcome:-
  
  ![img](https://user-images.githubusercontent.com/69526660/127963196-07a77cfb-3c47-4f73-abbe-97ae775f5ac2.jpg)
  
