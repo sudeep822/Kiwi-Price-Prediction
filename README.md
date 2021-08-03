@@ -1,6 +1,14 @@
 # Kiwi-Price-Prediction
 Predicting the price of kiwi fruit based on previous dataset.
 
+ FACEBOOK PROPHET EXPECTED OUTPUT
+ 
+ Expected Outcome:-
+ 
+ ![img](https://user-images.githubusercontent.com/69526660/127963196-07a77cfb-3c47-4f73-abbe-97ae775f5ac2.jpg)
+ 
+![img2](https://user-images.githubusercontent.com/69526660/127963207-401852c4-b0c6-4af1-b1d7-cf66222937b7.png)
+
 
 The objective of this case study is to predict the price of Kiwi sold in US using historical dataset.</br>
 Data represents weekely 2018 retail scan data for National retail volume (units) and price.</br>
@@ -24,11 +32,5 @@ For information, please check this out:</br>
 -> https://facebook.github.io/prophet/docs/quick_start.html#python-api</br>
 
 
- FACEBOOK PROPHET EXPECTED OUTPUT
- 
- Expected Outcome:-
- 
- ![img](https://user-images.githubusercontent.com/69526660/127963196-07a77cfb-3c47-4f73-abbe-97ae775f5ac2.jpg)
- 
-![img2](https://user-images.githubusercontent.com/69526660/127963207-401852c4-b0c6-4af1-b1d7-cf66222937b7.png)
+
 
