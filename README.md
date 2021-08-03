@@ -24,4 +24,11 @@ For information, please check this out:</br>
 -> https://facebook.github.io/prophet/docs/quick_start.html#python-api</br>
 
 
+ FACEBOOK PROPHET EXPECTED OUTPUT
  
+ Expected Outcome:-
+ 
+ ![img](https://user-images.githubusercontent.com/69526660/127963196-07a77cfb-3c47-4f73-abbe-97ae775f5ac2.jpg)
+ 
+![img2](https://user-images.githubusercontent.com/69526660/127963207-401852c4-b0c6-4af1-b1d7-cf66222937b7.png)
+
